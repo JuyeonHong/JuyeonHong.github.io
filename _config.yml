@@ -278,6 +278,6 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
-      
+      related: true  
+
 remote_theme : mmistakes/minimal-mistakes
